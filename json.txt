@@ -45,13 +45,13 @@
 
 },
   "my_data":[
-  {"desc1":"In Sneaky Sasquatc players guide their Sasquatch through various activitie and have fun while evading the watchful eyes of the park authorities. ",
-   "photo1":"https://iili.io/Ht07B6b.webp"},
-  {"desc2":"The Sasquatch must sneak around the park, pilfering picnic baskets, stealing snacks from campers, and raiding trash cans for goodies. Players can explore the park, visit different locations, and interact with various characters to complete quests and missions.","photo2":"https://iili.io/Ht07fne.webp"},
-  {"desc3":"Throughout the game, players will encounter park rangers who are always on the lookout for the elusive Sasquatch. To avoid suspicion, players must dress up in disguises, sneak through bushes, and use cunning tactics to stay out of sight. If caught, the game is not over, but the Sasquatch will have to find a way to escape from the rangers and return to its sneaky activities.","photo3":"https://iili.io/Ht07qMu.webp"},
-  {"desc4":"As players progress, they can unlock new areas of the park, discover secret hiding spots, and uncover hidden treasures. The game offers a mix of stealth, exploration, and casual gameplay, making it enjoyable for players of all ages.","photo4":"https://iili.io/Ht07qMu.webp"},
-  {"desc5":"Sneaky Sasquatch has received praise for its engaging gameplay, charming graphics, and witty humor. It's a game that appeals to both casual players looking for a fun time and more dedicated players aiming to complete all the quests and challenges.","photo5":"https://iili.io/Ht07Ft9.webp"},
-  {"descd":"If you enjoy lighthearted adventures with a touch of stealth and humor, Sneaky Sasquatch might be the perfect game for you. Whether you're sneaking around the park or causing delightful mayhem, it's an enjoyable and endearing experience that will keep you entertained for hours ","photod":"https://iili.io/Ht07nFj.webp"}
+  {"desc1":"Develop an eCommerce platform using the Rust programming language for the backend. Rust is known for its focus on performance, safety, and concurrency, making it an interesting choice for building robust and secure systems. ",
+   "photo1":"https://iili.io/JFRddbf.webp"},
+  {"desc2":"Build a data storage system or database using Rust, emphasizing performance, reliability, and safety. Rust's ownership system can help prevent common memory-related issues, making it suitable for developing high-performance data storage solutions.","photo2":"https://iili.io/JFRdHRs.webp"},
+  {"desc3":"Create a document store similar to MongoDB but built entirely in Rust. Leverage Rust's memory safety features to ensure the integrity of stored documents and provide efficient querying capabilities.","photo3":"https://iili.io/JFRdJOG.webp"},
+  {"desc4":"Support for various data types (e.g., relational data, documents).","photo4":"https://iili.io/JFRd9Jn.webp"},
+  {"desc5":"Multi-threading and concurrent access support.","photo5":"https://iili.io/JFRd3x4.webp"},
+  {"descd":"Scalability for handling large datasets.","photod":"https://iili.io/JFRdFWl.webp"}
    ]
  
 }
