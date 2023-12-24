@@ -31,9 +31,9 @@
 
   
  "more_apps_info":[
-  {"name":"Rustore  Android","package_name":"com.rstore.ristore","icon":"https://play-lh.googleusercontent.com/faILKOAmThyqWT2KLF0nb8ADRQRv9JwwPL2o4li1l-KYjEW2rWbUe3LGmUka6zuZQUxv=w240-h480-rw"},
-  {"name":"Rustore для Android","package_name":"com.rstore.ristore","icon":"https://play-lh.googleusercontent.com/faILKOAmThyqWT2KLF0nb8ADRQRv9JwwPL2o4li1l-KYjEW2rWbUe3LGmUka6zuZQUxv=w240-h480-rw"},
-  {"name":"New Rustore для Android","package_name":"com.rstore.ristore","icon":"https://play-lh.googleusercontent.com/faILKOAmThyqWT2KLF0nb8ADRQRv9JwwPL2o4li1l-KYjEW2rWbUe3LGmUka6zuZQUxv=w240-h480-rw"}
+  {"name":"Rustore  Android","package_name":"com.rustoresx","icon":"https://play-lh.googleusercontent.com/faILKOAmThyqWT2KLF0nb8ADRQRv9JwwPL2o4li1l-KYjEW2rWbUe3LGmUka6zuZQUxv=w240-h480-rw"},
+  {"name":"Rustore для Android","package_name":"com.rustoresx","icon":"https://play-lh.googleusercontent.com/faILKOAmThyqWT2KLF0nb8ADRQRv9JwwPL2o4li1l-KYjEW2rWbUe3LGmUka6zuZQUxv=w240-h480-rw"},
+  {"name":"New Rustore для Android","package_name":"com.rustoresx","icon":"https://play-lh.googleusercontent.com/faILKOAmThyqWT2KLF0nb8ADRQRv9JwwPL2o4li1l-KYjEW2rWbUe3LGmUka6zuZQUxv=w240-h480-rw"}
    ],
 
 "download_dialog_txt":"download text from server",
