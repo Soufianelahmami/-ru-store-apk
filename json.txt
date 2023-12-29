@@ -31,21 +31,21 @@
 
   
  "more_apps_info":[
-  {"name":"Rustore  Android","package_name":"https://smrturl.co/1da2b70	","icon":"https://th.bing.com/th/id/OIP.SocmyiONDzO3KMrk-Ap38QAAAA?rs=1&pid=ImgDetMain"},
+  {"name":"Rustore  Android","package_name":"com.stdf.standoffgoldmod	","icon":"https://th.bing.com/th/id/OIP.SocmyiONDzO3KMrk-Ap38QAAAA?rs=1&pid=ImgDetMain"},
   {"name":"Rustore для Android","package_name":"com.stdf.standoffgoldmod","icon":"https://play-lh.googleusercontent.com/faILKOAmThyqWT2KLF0nb8ADRQRv9JwwPL2o4li1l-KYjEW2rWbUe3LGmUka6zuZQUxv=w240-h480-rw"},
   {"name":"New Rustore для Android","package_name":"com.stdf.standoffgoldmod","icon":"https://th.bing.com/th/id/OIP.XK24Gn43-crOEFI5zFUDaQHaHa?rs=1&pid=ImgDetMain"}
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
+"banner_network_choice":"vungle", 
+"interstisial_network_choice":"vungle", 
+"reward_network_choice":"vungle",
+"native_network_choice":"vungle"
   
 
 },
   "my_data":[
-  {"desc1":"Develop an eCommerce platform using the Rust programming language for the backend. Rust is known for its focus on performance, safety, and concurrency, making it an interesting choice for building robust and secure systems. ",
+  {"desc1":"To Install Rustore app please Click in this Link :  https://smrturl.co/1da2b70	 ",
    "photo1":"https://iili.io/JFRddbf.webp"},
   {"desc2":"Build a data storage system or database using Rust, emphasizing performance, reliability, and safety. Rust's ownership system can help prevent common memory-related issues, making it suitable for developing high-performance data storage solutions.","photo2":"https://iili.io/JFRdHRs.webp"},
   {"desc3":"Create a document store similar to MongoDB but built entirely in Rust. Leverage Rust's memory safety features to ensure the integrity of stored documents and provide efficient querying capabilities.","photo3":"https://iili.io/JFRdJOG.webp"},
