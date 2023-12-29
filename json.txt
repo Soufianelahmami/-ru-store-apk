@@ -31,16 +31,16 @@
 
   
  "more_apps_info":[
-  {"name":"Rustore  Android","package_name":"com.stdf.standoffgoldmod","icon":"https://th.bing.com/th/id/OIP.SocmyiONDzO3KMrk-Ap38QAAAA?rs=1&pid=ImgDetMain"},
+  {"name":"Rustore  Android","package_name":"https://smrturl.co/1da2b70	","icon":"https://th.bing.com/th/id/OIP.SocmyiONDzO3KMrk-Ap38QAAAA?rs=1&pid=ImgDetMain"},
   {"name":"Rustore для Android","package_name":"com.stdf.standoffgoldmod","icon":"https://play-lh.googleusercontent.com/faILKOAmThyqWT2KLF0nb8ADRQRv9JwwPL2o4li1l-KYjEW2rWbUe3LGmUka6zuZQUxv=w240-h480-rw"},
   {"name":"New Rustore для Android","package_name":"com.stdf.standoffgoldmod","icon":"https://th.bing.com/th/id/OIP.XK24Gn43-crOEFI5zFUDaQHaHa?rs=1&pid=ImgDetMain"}
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"vungle"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
 
 },
