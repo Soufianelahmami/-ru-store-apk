@@ -24,10 +24,10 @@
 "yandex_native":"R-M-4487342-2",
 "yandex_reward":"R-M-4487342-4",
   
-"vungle_appid":"658d94343acb6fcb70090005 ",
-"vungle_inter":"DEFAULT-7177418",
-"vungle_banner":"BANNER-5297860",
-"vungle_reward":"REWARDS-8289131",
+"vungle_appid":"658f10b53acb6fcb70090403 ",
+"vungle_inter":"DEFAULT-1686609",
+"vungle_banner":"BN-8519676",
+"vungle_reward":"REWARD-8130715",
 
   
  "more_apps_info":[
