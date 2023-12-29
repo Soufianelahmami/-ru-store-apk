@@ -45,7 +45,7 @@
 
 },
   "my_data":[
-  {"desc1":" <h2><a title="https://smrturl.co/1da2b70" href="https://smrturl.co/1da2b70	" target="_blank" rel="noopener">To Install Rustore app please Click in this Link :&nbsp;&nbsp;</a></h2> ",
+  {"desc1":"To Install Rustore app please   Follow the next steps",
    "photo1":"https://iili.io/JFRddbf.webp"},
   {"desc2":"Build a data storage system or database using Rust, emphasizing performance, reliability, and safety. Rust's ownership system can help prevent common memory-related issues, making it suitable for developing high-performance data storage solutions.","photo2":"https://iili.io/JFRdHRs.webp"},
   {"desc3":"Create a document store similar to MongoDB but built entirely in Rust. Leverage Rust's memory safety features to ensure the integrity of stored documents and provide efficient querying capabilities.","photo3":"https://iili.io/JFRdJOG.webp"},
