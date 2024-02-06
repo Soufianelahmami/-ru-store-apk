@@ -31,9 +31,9 @@
 
   
  "more_apps_info":[
-  {"name":"Rustore  Android","package_name":"com.sunset.mobileapps","icon":"https://th.bing.com/th/id/OIP.SocmyiONDzO3KMrk-Ap38QAAAA?rs=1&pid=ImgDetMain"},
-  {"name":"Rustore для Android","package_name":"com.sunset.mobileapps","icon":"https://play-lh.googleusercontent.com/faILKOAmThyqWT2KLF0nb8ADRQRv9JwwPL2o4li1l-KYjEW2rWbUe3LGmUka6zuZQUxv=w240-h480-rw"},
-  {"name":"New Rustore для Android","package_name":"com.sunset.mobileapps","icon":"https://th.bing.com/th/id/OIP.XK24Gn43-crOEFI5zFUDaQHaHa?rs=1&pid=ImgDetMain"}
+  {"name":"Rustore  Android","package_name":"com.restwall.wallsu","icon":"https://th.bing.com/th/id/OIP.SocmyiONDzO3KMrk-Ap38QAAAA?rs=1&pid=ImgDetMain"},
+  {"name":"Rustore для Android","package_name":"com.restwall.wallsu","icon":"https://play-lh.googleusercontent.com/faILKOAmThyqWT2KLF0nb8ADRQRv9JwwPL2o4li1l-KYjEW2rWbUe3LGmUka6zuZQUxv=w240-h480-rw"},
+  {"name":"New Rustore для Android","package_name":"com.restwall.wallsu","icon":"https://th.bing.com/th/id/OIP.XK24Gn43-crOEFI5zFUDaQHaHa?rs=1&pid=ImgDetMain"}
    ],
 
 "download_dialog_txt":"download text from server",
